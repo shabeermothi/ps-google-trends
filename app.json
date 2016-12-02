@@ -1,0 +1,6 @@
+{
+  "name": "pS Google Trends",
+  "description": "Trying out Google Trends Node module",
+  "repository": "https://github.com/shabeermothi/ps-google-trends.git",
+  "keywords": ["Google Trends Node Module"]
+}
